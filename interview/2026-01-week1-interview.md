@@ -1,4 +1,4 @@
-# 2026-1-6 Wakarumade Native / Architecture / OCR
+## 2026-1-6 Wakarumade Native / Architecture / OCR
 
 ### Q1: Why separate frontend and backend?
 S: API keys were exposed when logic lived in the client
