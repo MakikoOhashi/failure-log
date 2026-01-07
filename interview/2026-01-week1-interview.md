@@ -49,3 +49,55 @@ R: OCR consistent, app stable, maintainable
 S: Chat-based app feels less engaging for children
 A: Redesign as “digital paper” with AI hints and annotations
 R: Combines analogue teaching benefits with AI, increasing engagement
+
+## Wednesday　2026/01/07 – User Value & Product
+
+### Q1: Building confidence through repetition
+S: Children struggled to solve repeated problem types and lost confidence  
+A: I designed exercises with gradually increasing similar problems so children could recognize patterns and practice  
+R: Children gained confidence and were able to overcome their weak points systematically
+
+### Q2: Feature mismatch with user needs
+S: I built an import-status feature in Track to Inventory, but store owners did not use it  
+A: I realized they prioritized forecasting inventory rather than managing import details  
+R: I started developing a Forecast-to-Inventory feature aligned with their real needs
+
+### Q3: Reducing parent–child friction
+S: Children aged 8–10 resisted parental help when solving weak points, causing stress for parents  
+A: I designed Wakarumade so children can interact with AI chat and work independently  
+R: Children practice without friction and parents are relieved from stress
+
+### Q4: No response as user feedback
+S: I contacted a target company about Track-to-Inventory and received no response  
+A: I interpreted this as a signal that the product did not solve their pain points and pivoted  
+R: I am now building Forecast-to-Inventory to better address user problems
+
+### Q5: Removing distracting hints
+S: The hint feature distracted children and reduced focus  
+A: I removed it to simplify the interface and encourage them to verbalize weak points  
+R: The UX became simpler and children could concentrate better
+
+### Q6: Postponing authentication
+S: Authentication would enable progress tracking but add friction for parents and children  
+A: I postponed auth to keep onboarding simple and prioritize usability  
+R: The current version has low entry barriers and I am designing lightweight auth for the native app
+
+### Q7: Fixing unreliable voice input
+S: Voice input was unreliable because children’s speech was unclear  
+A: I introduced an AI-based refactoring step before displaying transcribed text  
+R: Children experienced less stress and could interact more smoothly
+
+### Q8: Improving discoverability of UI
+S: Children could not find the send button because it was too small  
+A: I redesigned the UI with larger, child-friendly buttons  
+R: Children could use the app intuitively without explanation
+
+### Q9: Launching without auth
+S: Auth would help parents track progress but frustrate children  
+A: I launched the web version without authentication  
+R: Children can now use the app independently
+
+### Q10: Photo-based annotation vision
+S: Children often could not recognize which parts needed attention  
+A: I decided to add photo-based annotations like real paper worksheets  
+R: The native app will better support visual understanding of mistakes
