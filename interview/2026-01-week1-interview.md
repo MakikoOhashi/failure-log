@@ -101,3 +101,109 @@ R: Children can now use the app independently
 S: Children often could not recognize which parts needed attention  
 A: I decided to add photo-based annotations like real paper worksheets  
 R: The native app will better support visual understanding of mistakes
+
+## 2026-01-08 – Failure Log (Conflict / Team:Previous Office Experience
+
+### Q1. Misuse of FOB with Customer’s Forwarder
+**S**  
+In my previous office, sales tried to use FOB with customers even when we had to rely on the customer’s forwarder, which increased operational risk.
+
+**A**  
+I explained the risks of using FOB under that structure and supported sales with concrete examples.
+
+**R**  
+Although sales finally followed the customer’s request, they became aware of the operational risks behind Incoterms.
+
+### Q2. Misunderstanding of Indian Factory Lead Time
+**S**  
+Sales misunderstood the lead time at the Indian side.  
+It actually took around **10 days just from the Indian factory to the Indian port**, and vessel lead time was additional, but they expected only 3 days.
+
+**A**  
+I informed both sales and the customer and recalculated the delivery schedule.
+
+**R**  
+It was already too late, and they finally decided to switch from sea freight to air freight, which increased the cost significantly.
+
+### Q3. Dangerous Use of Dhaka Airport
+**S**  
+When Dhaka airport was on fire, the import warehouse situation was extremely bad and our forwarder warned about loss and damage.
+
+**A**  
+I repeatedly recommended sales and the customer not to use Dhaka airport.
+
+**R**  
+There was no alternative airport and the sewing factory could not wait for sea shipment.  
+We proceeded with the customer’s decision after clearly notifying that we could not take responsibility for the arrival condition.
+
+### Q4. Merged Sales Teams and Unrealistic Delivery Control
+**S**  
+Two sales teams (import and domestic) were merged.  
+A member from the domestic side treated import orders the same way and insisted on fixed delivery dates.
+
+**A**  
+I explained that import schedules are unstable due to vessel delay and customs clearance.
+
+**R**  
+After several months, he finally understood that it is unrealistic to promise definitive delivery dates for import items.
+
+### Q5. Helping Sales vs Letting Them Fail
+**S**  
+An import sales colleague told me not to help sales too much, because sales would not learn overseas trading risks and would make bad contracts.
+
+**A**  
+I decided to keep helping, but always explained why each situation was dangerous, low-profit, or had long lead time.
+
+**R**  
+Sales started to understand the risks behind overseas trading instead of just relying on me.
+
+### Q6. Conflict Between Boss and Sales Philosophy
+**S**  
+Sales thought it was important to fail themselves to learn triangle shipment, but my boss wanted to avoid failures and asked me to support strongly.
+
+**A**  
+I discussed the issue with both sides.
+
+**R**  
+I took a middle approach: supporting sales while ensuring they clearly understood the risks and structure of triangle shipment.
+
+### Q7. Order Handling vs Maintenance Task
+**S**  
+Another sales assistant prioritized maintaining delivery-date lists, but I thought real orders were more critical.
+
+**A**  
+I always handled urgent orders first and postponed maintenance tasks.
+
+**R**  
+He received high evaluation for maintenance work, which revealed the gap between actual impact and evaluation criteria.
+
+### Q8. No One Owned the HK Payment Flow
+**S**  
+There was a sales flow where payment was made to HK branch instead of JP HQ, but no one owned the process.
+
+**A**  
+I caught the issue, connected with HK staff, led the sales, and explained the flow to them.
+
+**R**  
+This flow became officially part of my responsibility.
+
+### Q9. Duplicate Order Risk by CC Chaos
+**S**  
+A customer email with too many CCs caused a duplicated order.
+
+**A**  
+I immediately coordinated with colleagues and redesigned who should handle the order.
+
+**R**  
+Quick internal communication prevented further duplicated orders.
+
+### Q10. Sharing Shipping Documents for SAP Input
+**S**  
+I gathered shipping documents for another colleague’s account so she could quickly input data into SAP.
+
+**A**  
+I shared the documents immediately.
+
+**R**  
+Everyone could see the latest stock status, which also helped the PIC handling import instructions.
+
