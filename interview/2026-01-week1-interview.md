@@ -102,108 +102,59 @@ S: Children often could not recognize which parts needed attention
 A: I decided to add photo-based annotations like real paper worksheets  
 R: The native app will better support visual understanding of mistakes
 
-## 2026-01-08 – Failure Log (Conflict / Team:Previous Office Experience
+## Thursday 2026/01/08 – Previous Office Experience　Conflict / Team
 
-### Q1. Misuse of FOB with Customer’s Forwarder
-**S**  
-In my previous office, sales tried to use FOB with customers even when we had to rely on the customer’s forwarder, which increased operational risk.
+### Q1: Describe a time you disagreed with a team member on a technical decision. How did you handle it?
+S: Sales insisted on using FOB even though we had to rely on the customer’s forwarder, which increased operational risk.  
+A: I explained clearly why FOB under that structure was dangerous and shared concrete risk scenarios with the sales team.  
+R: Although they finally followed the customer’s will, sales gained awareness of Incoterms risk and stopped treating FOB as a default option.
 
-**A**  
-I explained the risks of using FOB under that structure and supported sales with concrete examples.
+### Q2: Tell me about a situation where a misunderstanding caused a problem in your team.
+S: Sales misunderstood the Indian lead time. It took about 10 days just from the factory to the Indian port, plus vessel time, but they assumed only 3 days total.  
+A: I informed both sales and the customer and recalculated the entire schedule.  
+R: It was too late and they switched from sea to air freight, causing high extra cost, but the team finally understood the real structure of Indian logistics.
 
-**R**  
-Although sales finally followed the customer’s request, they became aware of the operational risks behind Incoterms.
+### Q3: Explain a time you had to convince others about a risk they wanted to ignore.
+S: When Dhaka airport was in fire, our forwarder warned about severe loss and damage risk, but sales and the customer still wanted to use it.  
+A: I repeatedly explained the concrete dangers and documented that we could not take responsibility for the arrival condition.  
+R: They proceeded due to lack of alternatives, but risk ownership was clarified and no similar blind decision happened again.
 
-### Q2. Misunderstanding of Indian Factory Lead Time
-**S**  
-Sales misunderstood the lead time at the Indian side.  
-It actually took around **10 days just from the Indian factory to the Indian port**, and vessel lead time was additional, but they expected only 3 days.
 
-**A**  
-I informed both sales and the customer and recalculated the delivery schedule.
+### Q4: Describe a time you had to deal with cultural or operational differences in a merged team.
+S: Two sales teams (import and domestic) were merged and a domestic member insisted on fixed delivery dates for import orders.  
+A: I explained how vessel delay and customs make import schedules unstable.  
+R: After several months, he accepted that definitive delivery dates are unrealistic for import business.
 
-**R**  
-It was already too late, and they finally decided to switch from sea freight to air freight, which increased the cost significantly.
+### Q5: Tell me about a time you had to balance helping others with letting them learn.
+S: An import sales colleague told me not to help too much because sales would not learn overseas trading risks.  
+A: I kept supporting sales but always explained why each case was dangerous or low-profit.  
+R: Sales began to understand overseas trading risks instead of blindly depending on me.
 
-### Q3. Dangerous Use of Dhaka Airport
-**S**  
-When Dhaka airport was on fire, the import warehouse situation was extremely bad and our forwarder warned about loss and damage.
+### Q6: Describe a conflict between your manager’s direction and your team’s philosophy.
+S: Sales believed they should fail to learn triangle shipment, while my boss wanted to avoid failure and push contracts.  
+A: I talked with both sides and clarified each perspective.  
+R: I took a middle path, supporting sales while ensuring they understood the risks.
 
-**A**  
-I repeatedly recommended sales and the customer not to use Dhaka airport.
 
-**R**  
-There was no alternative airport and the sewing factory could not wait for sea shipment.  
-We proceeded with the customer’s decision after clearly notifying that we could not take responsibility for the arrival condition.
+### Q7: Tell me about a time your priorities differed from a teammate’s.
+S: Another assistant focused on maintaining delivery-date lists, while I prioritized real-time order handling.  
+A: I handled urgent orders first and postponed maintenance.  
+R: He was highly evaluated, which revealed a gap between evaluation metrics and real business impact.
 
-### Q4. Merged Sales Teams and Unrealistic Delivery Control
-**S**  
-Two sales teams (import and domestic) were merged.  
-A member from the domestic side treated import orders the same way and insisted on fixed delivery dates.
 
-**A**  
-I explained that import schedules are unstable due to vessel delay and customs clearance.
+### Q8: Describe a time you took ownership of something no one else wanted.
+S: A payment flow to HK branch instead of JP HQ had no owner and sales didn’t understand it.  
+A: I connected with HK staff, lectured sales, and led the customer communication.  
+R: That complex flow became my official responsibility.
 
-**R**  
-After several months, he finally understood that it is unrealistic to promise definitive delivery dates for import items.
 
-### Q5. Helping Sales vs Letting Them Fail
-**S**  
-An import sales colleague told me not to help sales too much, because sales would not learn overseas trading risks and would make bad contracts.
+### Q9: Tell me about a time you prevented a serious mistake.
+S: A customer email with too many CCs caused duplicated orders.  
+A: I immediately coordinated with colleagues and redesigned the handling flow.  
+R: We avoided further duplicate orders.
 
-**A**  
-I decided to keep helping, but always explained why each situation was dangerous, low-profit, or had long lead time.
 
-**R**  
-Sales started to understand the risks behind overseas trading instead of just relying on me.
-
-### Q6. Conflict Between Boss and Sales Philosophy
-**S**  
-Sales thought it was important to fail themselves to learn triangle shipment, but my boss wanted to avoid failures and asked me to support strongly.
-
-**A**  
-I discussed the issue with both sides.
-
-**R**  
-I took a middle approach: supporting sales while ensuring they clearly understood the risks and structure of triangle shipment.
-
-### Q7. Order Handling vs Maintenance Task
-**S**  
-Another sales assistant prioritized maintaining delivery-date lists, but I thought real orders were more critical.
-
-**A**  
-I always handled urgent orders first and postponed maintenance tasks.
-
-**R**  
-He received high evaluation for maintenance work, which revealed the gap between actual impact and evaluation criteria.
-
-### Q8. No One Owned the HK Payment Flow
-**S**  
-There was a sales flow where payment was made to HK branch instead of JP HQ, but no one owned the process.
-
-**A**  
-I caught the issue, connected with HK staff, led the sales, and explained the flow to them.
-
-**R**  
-This flow became officially part of my responsibility.
-
-### Q9. Duplicate Order Risk by CC Chaos
-**S**  
-A customer email with too many CCs caused a duplicated order.
-
-**A**  
-I immediately coordinated with colleagues and redesigned who should handle the order.
-
-**R**  
-Quick internal communication prevented further duplicated orders.
-
-### Q10. Sharing Shipping Documents for SAP Input
-**S**  
-I gathered shipping documents for another colleague’s account so she could quickly input data into SAP.
-
-**A**  
-I shared the documents immediately.
-
-**R**  
-Everyone could see the latest stock status, which also helped the PIC handling import instructions.
-
+### Q10: Describe a time you improved efficiency for others.
+S: Another colleague needed shipping documents to update SAP and stock records.  
+A: I gathered and shared them immediately.  
+R: The team could see the latest stock status, improving import operations.
