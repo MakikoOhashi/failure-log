@@ -158,3 +158,118 @@ R: We avoided further duplicate orders.
 S: Another colleague needed shipping documents to update SAP and stock records.  
 A: I gathered and shared them immediately.  
 R: The team could see the latest stock status, improving import operations.
+
+## Friday 2026/01/09 – Learning Speed & Adaptability
+
+
+### Q1: Quickly learning a new tool
+
+S:When I joined the Backend Reload Hackathon, I had to use MOTIA, a system I had never used before.  
+
+A:I didn’t understand MOTIA at first, but I believed learning by doing is the best approach.
+I started building part of the Forecast to Inventory backend system using MOTIA with AI pair programming.  
+
+R:I quickly grasped how MOTIA works and completed the assigned task on time for the hackathon.  
+
+Q2: Adapting to a sudden process change
+
+S
+When I remade the Wakarumade app as a native app, I initially planned to use React Native only.
+However, the OCR didn’t work well with this setup.
+
+A
+I discarded the previous OCR server repository I had built and started a new flow using Swift and Apple Vision OCR.
+
+R
+The new flow worked reliably and fit best for children’s use.
+
+Q3: Learning from a failed integration
+
+S
+When I started building Forecast to Inventory as the next version of Track to Inventory, I initially used a copied TTI repository to remake it.
+
+A
+However, Shopify app standards had changed from REMIX to REACT, and the existing code became too complex to handle.
+I decided to discard it and start from scratch.
+
+R
+Starting from zero made the project much easier to manage and adapt to the new standards.
+
+Q4: Adapting to team/customer feedback
+
+S
+When I released Track to Inventory, I contacted the entrepreneur whose problem I aimed to solve.
+However, I received no reply.
+
+A
+I realized that this app might not truly help them—it was “nice to have” rather than “must have.”
+
+R
+I decided to develop a new version focused on providing real forecasting value for the users.
+
+Q5: Switching priorities under time pressure
+
+S
+When I remade the Wakarumade web app to native, I realized that the accounting “Kakutei Shinkoku” season was approaching, and handling it with the existing services would be too much for me.
+
+A
+I prioritized building the Gemini Tracker over Wakarumade Native to meet the urgent accounting deadline.
+
+R
+By adjusting priorities, I was able to manage my tasks on time while continuing app development.
+
+Q6: Learning from career misalignment
+
+S
+Several years ago, I studied for an accounting certificate, thinking it would make career change easier even without prior experience in the field.
+
+A
+However, I realized that with a tax accountant qualification, changing careers was not easy—especially as a woman raising small children in Japan.
+
+R
+Once I realized this, I shifted my focus to engineering and began explaining and building systems, which suits me much better.
+
+Q7: Taking ownership of unclear tasks
+
+S
+When I worked in my previous office, there were sometimes special orders that no one knew how to handle—for example, cross-border triangle shipments transported by truck instead of by sea or air.
+
+A
+I contacted our forwarder and investigated any tax or regulatory issues in each country to handle the order correctly.
+
+R
+I managed this chaotic situation and successfully integrated the order into the regular procedure.
+
+Q8: Learning from others to improve workflow
+
+S
+When I worked in my previous office, I was in charge of triangle shipment delivery. To ensure smooth procedures in SAP, I needed to understand the accounting workflow.
+
+A
+When I had free time, I assisted my colleague and learned her procedure in detail.
+
+R
+After that, communication became smooth, and I clearly understood task priorities.
+
+Q9: Adapting approach for user needs
+
+S
+When I remade the Wakarumade app from web to native, I initially tried to use only React Native.
+However, the OCR didn’t work reliably, which was critical for children users.
+
+A
+I adapted by introducing Swift and Apple Vision OCR.
+
+R
+The new approach worked smoothly and simply, providing a stable experience for children.
+
+Q10: Self-learning without formal instruction
+
+S
+Almost all of my programming study was self-taught without formal instruction. For example, I decided to build a Shopify app as my first project and researched everything by myself while using AI pair programming.
+
+A
+At that time, I didn’t even understand what a database was or how Supabase differed from a spreadsheet, but I learned by building and experimenting.
+
+R
+Through this learning-by-doing approach, I was able to catch up quickly and felt real progress every day as I discovered new technologies and systems.
